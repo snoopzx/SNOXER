@@ -1,9 +1,10 @@
 
 # SNOXER
 
-![Logo](https://s12.gifyu.com/images/b9CRl.gif)
+![Screen Recording 2025-11-25 100509](https://github.com/user-attachments/assets/1523f0c7-02c9-48c7-a207-748df22bfc32)
 
 Python Audio Mixer With GUI
+
 
 '-------------'![Static Badge](https://img.shields.io/badge/Made_in-KSA-white)'-------------'
 
