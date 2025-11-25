@@ -1,7 +1,7 @@
 
 # SNOXER
 
-![Logo](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb21ibTA5dHJseXVpbzFuZGJrN25rYmx4NnUyNmZrazlyN2V4YnVweSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4sXIOFblaWLZZmIg9A/giphy.gif)
+![Logo](https://s12.gifyu.com/images/b9CRl.gif)
 
 Python Audio Mixer With GUI
 
