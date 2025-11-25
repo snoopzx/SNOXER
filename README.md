@@ -1,7 +1,6 @@
 
 # SNOXER
-
-![Logo](https://s12.gifyu.com/images/b9CRl.gif)
+![Screen Recording 2025-11-25 100509](https://github.com/user-attachments/assets/981367ea-7bdb-4bf7-8279-a2cd4e4177ab)
 
 Python Audio Mixer With GUI
 
